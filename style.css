@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(165, 76, 76, 0.911);
+    font-family: 'VALORANT', sans-serif;
+}
+@import url('https://fonts.cdnfonts.com/css/valorant');
+@media(max-width:600px){
+    body{
+        background-color: rgba(70, 88, 168, 0.897);
+    }
+    h1{
+        font-size: 50px;
+    }
+    
+}
+@media(max-width:300px){
+    body{
+        background-color: rgba(122, 38, 133, 0.897);
+    }
+    h1{
+        font-size: 30px;
+    }
+   
+}
